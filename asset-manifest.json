@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/renderquotes/static/css/main.4814d084.css",
+    "main.js": "/renderquotes/static/js/main.0d863f53.js",
+    "index.html": "/renderquotes/index.html",
+    "main.4814d084.css.map": "/renderquotes/static/css/main.4814d084.css.map",
+    "main.0d863f53.js.map": "/renderquotes/static/js/main.0d863f53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4814d084.css",
+    "static/js/main.0d863f53.js"
+  ]
+}
